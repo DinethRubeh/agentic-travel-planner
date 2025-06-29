@@ -1,2 +1,1 @@
-# agentic-travel-planner
-Multi-agent travel planner
+# Agentic travel planner
